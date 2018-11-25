@@ -1,0 +1,66 @@
+h1 {
+		font-family: Comic Sans MS;
+		font-size: 30pt;
+		color:#cc0000;
+		text-shadow: white 0px 0px 6px;
+	}
+
+body{
+	text-align: center;
+	background-image: url("Background.jpg");
+	}
+	.IT{
+	border-radius:40px;
+}
+	
+div{
+	font-family: Calibri;
+	font-size: 20pt;
+	color: white;
+}
+
+button{
+	background-color: red;
+	color: white;
+	font-family: Calibri;
+	
+}
+#info1{
+	font-size: 15pt;
+}
+#genre1{
+	font-size: 15pt;
+}
+#date1{
+	font-size: 15pt;
+}
+
+#info2{
+	font-size: 15pt;
+}
+#genre2{
+	font-size: 15pt;
+}
+#date2{
+	font-size: 15pt;
+}
+
+#info3{
+	font-size: 15pt;
+}
+#genre3{
+	font-size: 15pt;
+}
+#date3{
+	font-size: 15pt;
+}
+
+#info4{
+	font-size: 15pt;
+}
+#genre4{
+	font-size: 15pt;
+}
+#date4{
+	font-size: 15pt;
+}

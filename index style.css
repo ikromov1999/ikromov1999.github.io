@@ -1,0 +1,38 @@
+body
+{
+	text-align: center;
+	background-image: url("index_1.jpg");
+}
+
+.IT
+{
+	border-radius:40px;
+}
+
+div
+{
+	font-family: "Calibri";
+	font-size: 15pt;
+	color: white;
+	text-shadow: red 0px 0px 6px;
+}
+a
+{
+	color: white;
+}
+button
+{
+background-color: red;
+color: white;
+font-family: Calibri;
+}
+#text
+{
+	font-family:Comic Sans MS;
+	font-size:25pt;
+	color:white;
+}
+#txt{
+	font-family: HoloLens MDL2 Assets；
+
+}
